@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-messages-by-cordova",
   "version": "1.0.0",
   "description": "random de mendajes",
   "main": "src/index.js",
