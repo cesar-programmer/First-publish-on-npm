@@ -1,0 +1,20 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "random de mendajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Cesar Cordova <cesarcordova.developer@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "random-msg" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
