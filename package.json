@@ -14,7 +14,15 @@
   "author": "Cesar Cordova <cesarcordova.developer@gmail.com>",
   "license": "ISC",
   "bin": {
-    "random-msg" : "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesar-programmer/First-publish-on-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cesar-programmer/First-publish-on-npm/issues"
+  },
+  "homepage": "https://github.com/cesar-programmer/First-publish-on-npm#readme"
 }
